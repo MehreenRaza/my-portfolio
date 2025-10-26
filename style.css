@@ -265,7 +265,7 @@ header {
 /* Contact */
 
   .contact {
-  background: linear-gradient(to bottom right, #102a43, #0a1a2f);
+  background: linear-gradient(to bottom right left, var(--secondary-color), #0e1f40);
   padding: 100px 50px;
   color: #fff;
   text-align: center;
